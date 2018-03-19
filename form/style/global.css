@@ -1,0 +1,11 @@
+body{
+    background-color:darkgray;
+    padding-left: 3em;
+}
+fieldset{
+    margin-top: 1em;   
+    background-color: lightgray;
+    border-width: medium;
+    border-color: steelblue;
+    
+}
